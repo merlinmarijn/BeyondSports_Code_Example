@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa76e28e10215447a65569c3ed10fae, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Niko
+    characterSprite: {fileID: 626413658233768876, guid: cfa240ad685f67249aef9e4c99a490d0, type: 3}
+  - characterName: Rana
+    characterSprite: {fileID: 4138051090392963125, guid: 7920e407fbb7eaa4190c9734089d0022, type: 3}
+  - characterName: Jeonsa
+    characterSprite: {fileID: 6499714162056784064, guid: 8c0c334d44f952a459ed602a7482f357, type: 3}
+  - characterName: Tanomu
+    characterSprite: {fileID: -1282719361701993790, guid: 6a62b598dc0f8d54b9984b2cd5e8bae8, type: 3}
+  - characterName: Kaisha
+    characterSprite: {fileID: 4828580623561253885, guid: 69a805c8dbb7886408bbd3c777c7b15e, type: 3}
+  - characterName: Park
+    characterSprite: {fileID: -3669454584561629619, guid: a504a059617df84409af37ec85bdcaf7, type: 3}
