@@ -1,4 +1,4 @@
-# BeyondSports_Code_Example
+# Code_Example
 
 Dit is mijn eerste keer dat ik gewerkt heb met multiplayer,
 hiervoor heb ik de photon framework gebruikt.
